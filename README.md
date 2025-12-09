@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://oscargav.github.io/DevChallenges.io---Flip-The-Coin/">
+    <a href="https://oscargav.github.io/flipping-coin-simulator/">
       Demo
     </a>
     <span> | </span>
@@ -47,9 +47,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ### What I learned
 
-During this project, I reinforced and acquired new concepts about frontend web development:
-
-**1. CSS 3D animations**
+**CSS 3D animations**
 I implemented the coin flip animation using `rotateY` and `rotateX` in keyframes. This taught me how to create realistic 3D effects without the need for external libraries.
 
 ```css
@@ -65,13 +63,6 @@ I implemented the coin flip animation using `rotateY` and `rotateX` in keyframes
     }
 }
 ```
-
-**2. Event and state management**
-I learned how to control the state of the application using variables (isFlipping) to prevent the user from clicking multiple times during the animation, thereby improving the user experience.
-
-**3. Responsive design**
-I implemented media queries to adapt the design to mobile devices, adjusting font sizes, coin dimensions, and button padding.
-
 
 ### Useful resources
 
